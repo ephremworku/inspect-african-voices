@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				earth: {
+					DEFAULT: 'hsl(var(--earth))',
+					light: 'hsl(var(--earth-light))'
+				},
+				sunset: 'hsl(var(--sunset))',
+				gold: 'hsl(var(--gold))',
+				savanna: 'hsl(var(--savanna))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
